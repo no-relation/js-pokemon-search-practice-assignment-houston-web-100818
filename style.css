@@ -4,6 +4,16 @@ body {
   font-weight: 300;
 }
 
+button {
+  align
+  text-align: center;
+  width: 50%;
+  height: 30px;
+  font-size: 35%;
+  border-radius: 12px;
+  background-color: yellow
+}
+
 #container {
   width: 1000px;
   margin: auto;
